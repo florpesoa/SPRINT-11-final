@@ -7,7 +7,10 @@ Este repositorio contiene un estudio sobre la relación entre la cantidad de inm
 
 El repositorio contiene los siguientes archivos:
 
-Un archivo Jupyter Notebook con todo el código utilizado para realizar el estudio.
-Dos anexos con gráficos que muestran los resultados obtenidos por municipio.
-El archivo README.md que explica el contenido del repositorio.
+- Un Jupyter Notebook por cada uno de los municipios con el código utilizado para realizar el estudio, utilizando Skforecastregression
+
+- Un paper en formato PDF
+
+- El archivo README.md que explica el contenido del repositorio.
+
 En resumen, este estudio proporciona una metodología para analizar la relación entre la cantidad de inmigrantes y el tiempo en diferentes municipios y propone un modelo alternativo para futuras investigaciones.
